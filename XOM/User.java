@@ -3,4 +3,5 @@ public class User{
 	private String name;
 	private String surname;
 	private String address;
+	private String address2;d
 }
