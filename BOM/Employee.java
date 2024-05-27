@@ -4,6 +4,7 @@ public class Employee{
 	private String surname;
 	private String address;
 	private String address2;
+	private String address3;
 
 	
 }
